@@ -7,8 +7,6 @@ function is_bool(value) {
 }
 
 /**
- * Determines a value if it's an object
- *
  * @param {object} value
  */
 export function is_object(value) {
